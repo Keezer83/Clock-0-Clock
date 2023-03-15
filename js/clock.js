@@ -55,7 +55,7 @@ function clock() {
   }
 
   document.getElementById("todaysDate").innerHTML =
-    currentDay + " " + currentMonth + " " + dayOfMonth + " " + currentYear;
+    currentDay + ", " + currentMonth + " " + dayOfMonth + " " + currentYear;
   //console.log(currentMonth, currentDay, dayOfMonth, currentYear);
   const mornEve = amPm(currentHour);
 
