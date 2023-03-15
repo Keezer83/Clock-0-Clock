@@ -8,7 +8,7 @@ _Space invaded digital clock written in HTML, CSS and JS_
 
 Walk in Space and see the time [here](https://keezer83.github.io/Clock-0-Clock/)
 
-<image src="images/app-image.png">
+<image src="img/app-image.png">
 
 #Summary
 

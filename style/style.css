@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-image: url("/images/space-carina.png");
+  background-image: url("img/space-carina.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
