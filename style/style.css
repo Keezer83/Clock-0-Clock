@@ -8,6 +8,13 @@ body {
   background-size: cover;
 }
 
-.todaysDate {
+.dateTime {
   color: whitesmoke;
+  font-size: 25px;
+  text-align: center;
+}
+
+greeting {
+  color: whitesmoke;
+  text-align: center;
 }
